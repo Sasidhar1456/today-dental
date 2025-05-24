@@ -6,12 +6,6 @@ Welcome to **Today’s Dental** — a sleek and responsive dental clinic website
 
 ---
 
-## 📸 Screenshots
-
-![Today’s Dental Homepage](https://via.placeholder.com/1200x600?text=Add+Screenshot+Here)
-
----
-
 ## 🚀 Tech Stack
 
 - ⚛️ React
